@@ -1,0 +1,15 @@
+{
+  	"homepage": "https://minecraft.curseforge.com/projects/overworld-mirror/files",
+  	"promos": {
+		"1.12.2-latest": "1.2.1.10",
+    	"1.12.2-recommended": "1.2.1.10",
+		"1.13.2-latest": "1.2.1.11-SNAPSHOT",
+    	"1.13.2-recommended": "1.2.1.11-SNAPSHOT"
+  	},
+	"1.12.2": {
+    	"1.2.1.10": "https://github.com/MC-U-Team/Overworld-Mirror/blob/1.12.2/CHANGELOG.md"
+  	},
+	"1.13.2": {
+    	"1.2.1.11-SNAPSHOT": "https://github.com/MC-U-Team/Overworld-Mirror/blob/1.13.2/CHANGELOG.md"
+  	}
+}

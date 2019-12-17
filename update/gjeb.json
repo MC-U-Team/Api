@@ -1,0 +1,10 @@
+{
+  	"homepage": "https://minecraft.curseforge.com/projects/draw-bridge/files",
+  	"promos": {
+		"1.14.4-latest": "1.0.0.1",
+    	"1.14.4-recommended": "1.0.0.1"
+  	},
+	"1.14.4": {
+    	"1.0.0.1": "https://github.com/MC-U-Team/GJEB-GammaJustExtremeBright/blob/1.14.4/CHANGELOG.md"
+  	}
+}

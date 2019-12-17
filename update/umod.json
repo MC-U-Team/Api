@@ -1,0 +1,10 @@
+{
+  	"homepage": "https://minecraft.curseforge.com/projects/u-mod/files",
+  	"promos": {
+		"1.12.2-latest": "xxx",
+    	"1.12.2-recommended": "xxx"
+  	},
+	"1.12.2": {
+    	"xxx": "Update"
+  	}
+}

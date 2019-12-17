@@ -1,0 +1,15 @@
+{
+  	"homepage": "https://minecraft.curseforge.com/projects/draw-bridge/files",
+  	"promos": {
+		"1.12.2-latest": "1.2.1.8",
+    	"1.12.2-recommended": "1.2.1.8",
+		"1.14.4-latest": "1.2.3.13",
+    	"1.14.4-recommended": "1.2.3.13"
+  	},
+	"1.12.2": {
+    	"1.2.1.8": "https://github.com/MC-U-Team/Draw-Bridge/blob/1.12.2/CHANGELOG.md"
+  	},
+	"1.14.4": {
+    	"1.2.3.13": "https://github.com/MC-U-Team/Draw-Bridge/blob/1.14.4/CHANGELOG.md"
+  	}
+}

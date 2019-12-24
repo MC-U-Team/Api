@@ -1,8 +1,8 @@
 {
-  	"homepage": "https://minecraft.curseforge.com/projects/useful-backpacks/files",
-  	"promos": {
-		"1.12.2-latest": "1.5.1.40",
-    	"1.12.2-recommended": "1.5.1.40",
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/useful-backpacks/files",
+	"promos": {
+		"1.12.2-latest": "1.5.1.42",
+		"1.12.2-recommended": "1.5.1.42",
 		"1.13.2-latest": "1.6.1.25",
 		"1.13.2-recommended": "1.6.1.25",
 		"1.14.2-latest": "1.7.0.32",
@@ -13,23 +13,23 @@
 		"1.14.4-recommended": "1.7.4.47",
 		"1.15.1-latest": "1.8.1.49",
 		"1.15.1-recommended": "1.8.1.49"
-  	},
+	},
 	"1.12.2": {
-    	"1.5.1.40": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.12.2/CHANGELOG.md"
-  	},
+		"1.5.1.42": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.12.2/CHANGELOG.md"
+	},
 	"1.13.2": {
 		"1.6.1.25": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.13.2/CHANGELOG.md"
-  	},
+	},
 	"1.14.2": {
 		"1.7.0.32": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.14.2/CHANGELOG.md"
-  	},
+	},
 	"1.14.3": {
 		"1.7.0.33": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.14.3/CHANGELOG.md"
-  	},
+	},
 	"1.14.4": {
 		"1.7.4.47": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.14.4/CHANGELOG.md"
-  	},
+	},
 	"1.15.1": {
 		"1.8.1.49": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.15.1/CHANGELOG.md"
-  	}
+	}
 }

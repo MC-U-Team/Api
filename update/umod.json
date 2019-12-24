@@ -1,10 +1,10 @@
 {
-  	"homepage": "https://minecraft.curseforge.com/projects/u-mod/files",
-  	"promos": {
-		"1.12.2-latest": "xxx",
-    	"1.12.2-recommended": "xxx"
-  	},
-	"1.12.2": {
-    	"xxx": "Update"
-  	}
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/u-mod/files",
+	"promos": {
+		"1.14.4-latest": "0.0.1.1-SNAPSHOT",
+		"1.14.4-recommended": "0.0.1.1-SNAPSHOT"
+	},
+	"1.12.4": {
+		"0.0.1.1-SNAPSHOT": "https://github.com/MC-U-Team/U-Mod/blob/1.14.4/CHANGELOG.md"
+	}
 }

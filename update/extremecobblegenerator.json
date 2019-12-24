@@ -1,10 +1,10 @@
 {
-  	"homepage": "https://minecraft.curseforge.com/projects/extreme-cobble-generator/files",
-  	"promos": {
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/extreme-cobble-generator/files",
+	"promos": {
 		"1.12.2-latest": "1.0.0.7",
-    	"1.12.2-recommended": "1.0.0.7"
-  	},
+		"1.12.2-recommended": "1.0.0.7"
+	},
 	"1.12.2": {
-    	"1.0.0.7": "https://github.com/MC-U-Team/Extreme-Cobble-Generator/blob/1.12.2/CHANGELOG.md"
-  	}
+		"1.0.0.7": "https://github.com/MC-U-Team/Extreme-Cobble-Generator/blob/1.12.2/CHANGELOG.md"
+	}
 }

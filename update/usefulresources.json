@@ -1,20 +1,20 @@
 {
-  	"homepage": "https://minecraft.curseforge.com/projects/useful-resources/files",
-  	"promos": {
-		"1.14.2-latest": "0.10.1.6-SNAPSHOT",
-		"1.14.2-recommended": "0.10.1.6-SNAPSHOT",
-		"1.14.3-latest": "0.10.1.7-SNAPSHOT",
-		"1.14.3-recommended": "0.10.1.7-SNAPSHOT",
-		"1.14.4-latest": "0.10.1.8-SNAPSHOT",
-		"1.14.4-recommended": "0.10.1.8-SNAPSHOT"
-  	},
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/useful-resources/files",
+	"promos": {
+		"1.14.2-latest": "0.10.2.9-SNAPSHOT",
+		"1.14.2-recommended": "0.10.2.9-SNAPSHOT",
+		"1.14.3-latest": "0.10.2.10-SNAPSHOT",
+		"1.14.3-recommended": "0.10.2.10-SNAPSHOT",
+		"1.14.4-latest": "0.10.2.11-SNAPSHOT",
+		"1.14.4-recommended": "0.10.2.11-SNAPSHOT"
+	},
 	"1.14.2": {
-		"0.10.1.6-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.2/CHANGELOG.md"
-  	},
+		"0.10.2.9-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.2/CHANGELOG.md"
+	},
 	"1.14.3": {
-		"0.10.1.7-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.3/CHANGELOG.md"
-  	},
+		"0.10.2.10-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.3/CHANGELOG.md"
+	},
 	"1.14.4": {
-		"0.10.1.8-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.4/CHANGELOG.md"
-  	}
+		"0.10.2.11-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.4/CHANGELOG.md"
+	}
 }

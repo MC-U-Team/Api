@@ -1,45 +1,45 @@
 {
-  	"homepage": "https://minecraft.curseforge.com/projects/music-player/files",
-  	"promos": {
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/music-player/files",
+	"promos": {
 		"1.8-latest": "2.0.2.36",
-    	"1.8-recommended": "2.0.2.36",
+		"1.8-recommended": "2.0.2.36",
 		"1.8.8-latest": "2.0.2.37",
-    	"1.8.8-recommended": "2.0.2.37",
+		"1.8.8-recommended": "2.0.2.37",
 		"1.8.9-latest": "2.0.2.38",
-    	"1.8.9-recommended": "2.0.2.38",
+		"1.8.9-recommended": "2.0.2.38",
 		"1.12.2-latest": "2.0.4.45",
-    	"1.12.2-recommended": "2.0.4.45",
+		"1.12.2-recommended": "2.0.4.45",
 		"1.13.2-latest": "2.0.3.40",
-    	"1.13.2-recommended": "2.0.3.40",
+		"1.13.2-recommended": "2.0.3.40",
 		"1.14.2-latest": "2.0.3.41",
-    	"1.14.2-recommended": "2.0.3.41",
+		"1.14.2-recommended": "2.0.3.41",
 		"1.14.3-latest": "2.0.3.42",
-    	"1.14.3-recommended": "2.0.3.42",
+		"1.14.3-recommended": "2.0.3.42",
 		"1.14.4-latest": "2.0.5.46",
-    	"1.14.4-recommended": "2.0.5.46"
-  	},
+		"1.14.4-recommended": "2.0.5.46"
+	},
 	"1.8": {
-    	"2.0.2.36": "https://github.com/MC-U-Team/Music-Player/blob/1.8-backport/CHANGELOG.md"
-  	},
+		"2.0.2.36": "https://github.com/MC-U-Team/Music-Player/blob/1.8-backport/CHANGELOG.md"
+	},
 	"1.8.8": {
-    	"2.0.2.37": "https://github.com/MC-U-Team/Music-Player/blob/1.8.8-backport/CHANGELOG.md"
-  	},
+		"2.0.2.37": "https://github.com/MC-U-Team/Music-Player/blob/1.8.8-backport/CHANGELOG.md"
+	},
 	"1.8.9": {
-    	"2.0.2.38": "https://github.com/MC-U-Team/Music-Player/blob/1.8.9-backport/CHANGELOG.md"
-  	},
+		"2.0.2.38": "https://github.com/MC-U-Team/Music-Player/blob/1.8.9-backport/CHANGELOG.md"
+	},
 	"1.12.2": {
-    	"2.0.4.45": "https://github.com/MC-U-Team/Music-Player/blob/1.12.2/CHANGELOG.md"
-  	},
+		"2.0.4.45": "https://github.com/MC-U-Team/Music-Player/blob/1.12.2/CHANGELOG.md"
+	},
 	"1.13.2": {
-    	"2.0.3.40": "https://github.com/MC-U-Team/Music-Player/blob/1.13.2/CHANGELOG.md"
-  	},
+		"2.0.3.40": "https://github.com/MC-U-Team/Music-Player/blob/1.13.2/CHANGELOG.md"
+	},
 	"1.14.2": {
-    	"2.0.3.41": "https://github.com/MC-U-Team/Music-Player/blob/1.14.2/CHANGELOG.md"
-  	},
+		"2.0.3.41": "https://github.com/MC-U-Team/Music-Player/blob/1.14.2/CHANGELOG.md"
+	},
 	"1.14.3": {
-    	"2.0.3.42": "https://github.com/MC-U-Team/Music-Player/blob/1.14.3/CHANGELOG.md"
-  	},
+		"2.0.3.42": "https://github.com/MC-U-Team/Music-Player/blob/1.14.3/CHANGELOG.md"
+	},
 	"1.14.4": {
-    	"2.0.5.46": "https://github.com/MC-U-Team/Music-Player/blob/1.14.4/CHANGELOG.md"
-  	}
+		"2.0.5.46": "https://github.com/MC-U-Team/Music-Player/blob/1.14.4/CHANGELOG.md"
+	}
 }

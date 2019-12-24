@@ -1,22 +1,22 @@
 {
-  	"homepage": "https://minecraft.curseforge.com/projects/u-team-core/files",
-  	"promos": {
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/u-team-core/files",
+	"promos": {
 		"1.12.2-latest": "2.2.4.133",
-    	"1.12.2-recommended": "2.2.4.133",
+		"1.12.2-recommended": "2.2.4.133",
 		"1.13.2-latest": "2.4.0.110",
-    	"1.13.2-recommended": "2.4.0.110",
+		"1.13.2-recommended": "2.4.0.110",
 		"1.14.2-latest": "2.7.0.127",
-    	"1.14.2-recommended": "2.7.0.127",
+		"1.14.2-recommended": "2.7.0.127",
 		"1.14.3-latest": "2.7.0.128",
-    	"1.14.3-recommended": "2.7.0.128",
+		"1.14.3-recommended": "2.7.0.128",
 		"1.14.4-latest": "2.8.0.140",
-    	"1.14.4-recommended": "2.8.0.140",
-		"1.15.1-latest": "2.9.1.142",
-    	"1.15.1-recommended": "2.9.1.142"
-  	},
+		"1.14.4-recommended": "2.8.0.140",
+		"1.15.1-latest": "2.9.2.143",
+		"1.15.1-recommended": "2.9.2.143"
+	},
 	"1.12.2": {
-    	"2.2.4.133": "https://github.com/MC-U-Team/U-Team-Core/blob/1.12.2/CHANGELOG.md"
-  	},
+		"2.2.4.133": "https://github.com/MC-U-Team/U-Team-Core/blob/1.12.2/CHANGELOG.md"
+	},
 	"1.13.2": {
 		"2.4.0.110": "https://github.com/MC-U-Team/U-Team-Core/blob/1.13.2/CHANGELOG.md"
 	},
@@ -30,6 +30,6 @@
 		"2.8.0.140": "https://github.com/MC-U-Team/U-Team-Core/blob/1.14.4/CHANGELOG.md"
 	},
 	"1.15.1": {
-		"2.9.1.142": "https://github.com/MC-U-Team/U-Team-Core/blob/1.15.1/CHANGELOG.md"
+		"2.9.2.143": "https://github.com/MC-U-Team/U-Team-Core/blob/1.15.1/CHANGELOG.md"
 	}
 }

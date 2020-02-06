@@ -1,8 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/useful-backpacks/files",
 	"promos": {
-		"1.12.2-latest": "1.5.2.53",
-		"1.12.2-recommended": "1.5.2.53",
+		"1.12.2-latest": "1.5.3.59",
+		"1.12.2-recommended": "1.5.3.59",
 		"1.13.2-latest": "1.6.1.25",
 		"1.13.2-recommended": "1.6.1.25",
 		"1.14.2-latest": "1.7.0.32",
@@ -17,7 +17,7 @@
 		"1.15.2-recommended": "1.9.1.55"
 	},
 	"1.12.2": {
-		"1.5.2.53": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.12.2/CHANGELOG.md"
+		"1.5.3.59": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.12.2/CHANGELOG.md"
 	},
 	"1.13.2": {
 		"1.6.1.25": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.13.2/CHANGELOG.md"

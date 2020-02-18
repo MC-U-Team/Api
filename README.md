@@ -1,4 +1,4 @@
-# api.MC-U-Team.github.io
+# API to serve the version files for our mods
 
 This repository handles our api.
 

@@ -6,7 +6,9 @@
 		"1.14.3-latest": "0.10.2.10-SNAPSHOT",
 		"1.14.3-recommended": "0.10.2.10-SNAPSHOT",
 		"1.14.4-latest": "0.10.2.11-SNAPSHOT",
-		"1.14.4-recommended": "0.10.2.11-SNAPSHOT"
+		"1.14.4-recommended": "0.10.2.11-SNAPSHOT",
+		"1.15.2-latest": "1.0.0.14",
+		"1.15.2-recommended": "1.0.0.14"
 	},
 	"1.14.2": {
 		"0.10.2.9-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.2/CHANGELOG.md"
@@ -16,5 +18,8 @@
 	},
 	"1.14.4": {
 		"0.10.2.11-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Resources/blob/1.14.4/CHANGELOG.md"
+	},
+	"1.15.2": {
+		"1.0.0.14": "https://github.com/MC-U-Team/Useful-Resources/blob/1.15.2/CHANGELOG.md"
 	}
 }

@@ -3,8 +3,8 @@
 	"promos": {
 		"1.8-latest": "2.1.0.82",
 		"1.8-recommended": "2.1.0.82",
-		"1.8.8-latest": "2.0.3.75",
-		"1.8.8-recommended": "2.0.3.75",
+		"1.8.8-latest": "2.1.0.83",
+		"1.8.8-recommended": "2.1.0.83",
 		"1.8.9-latest": "2.0.3.76",
 		"1.8.9-recommended": "2.0.3.76",
 		"1.12.2-latest": "2.0.8.77",
@@ -26,7 +26,7 @@
 		"2.1.0.82": "https://github.com/MC-U-Team/Music-Player/blob/1.8-backport/CHANGELOG.md"
 	},
 	"1.8.8": {
-		"2.0.3.75": "https://github.com/MC-U-Team/Music-Player/blob/1.8.8-backport/CHANGELOG.md"
+		"2.1.0.83": "https://github.com/MC-U-Team/Music-Player/blob/1.8.8-backport/CHANGELOG.md"
 	},
 	"1.8.9": {
 		"2.0.3.76": "https://github.com/MC-U-Team/Music-Player/blob/1.8.9-backport/CHANGELOG.md"

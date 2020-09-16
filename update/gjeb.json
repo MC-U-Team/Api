@@ -7,8 +7,8 @@
 		"1.15.1-recommended": "1.0.0.2",
 		"1.15.2-latest": "1.1.1.7",
 		"1.15.2-recommended": "1.1.1.7",
-		"1.16.2-latest": "1.1.1.9",
-		"1.16.2-recommended": "1.1.1.9"
+		"1.16.2-latest": "1.1.2.10",
+		"1.16.2-recommended": "1.1.2.10"
 	},
 	"1.14.4": {
 		"1.0.0.1": "https://github.com/MC-U-Team/GJEB-GammaJustExtremeBright/blob/1.14.4/CHANGELOG.md"
@@ -20,6 +20,6 @@
 		"1.1.1.7": "https://github.com/MC-U-Team/GJEB-GammaJustExtremeBright/blob/1.15.2/CHANGELOG.md"
 	},
 	"1.16.2": {
-		"1.1.1.9": "https://github.com/MC-U-Team/GJEB-GammaJustExtremeBright/blob/1.16.2/CHANGELOG.md"
+		"1.1.2.10": "https://github.com/MC-U-Team/GJEB-GammaJustExtremeBright/blob/1.16.2/CHANGELOG.md"
 	}
 }

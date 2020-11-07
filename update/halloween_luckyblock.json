@@ -3,6 +3,8 @@
 	"promos": {
 		"1.8-latest": "2.1.0.10",
 		"1.8-recommended": "2.1.0.10",
+		"1.8.9-latest": "2.1.0.11",
+		"1.8.9-recommended": "2.1.0.11",
 		"1.12.2-latest": "2.2.2.12",
 		"1.12.2-recommended": "2.2.2.12",
 		"1.14.4-latest": "2.3.0.13",
@@ -12,6 +14,9 @@
 	},
 	"1.8": {
 		"2.1.0.10": "https://www.curseforge.com/minecraft/mc-mods/halloween-luckyblocks/files/3090536"
+	},
+	"1.8.9": {
+		"2.1.0.11": "https://www.curseforge.com/minecraft/mc-mods/halloween-luckyblocks/files/3090554"
 	},
 	"1.12.2": {
 		"2.2.2.12": "https://github.com/MC-U-Team/Halloween-Luckyblocks/blob/1.12.2/CHANGELOG.md"

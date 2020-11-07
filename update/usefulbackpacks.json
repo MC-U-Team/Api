@@ -19,8 +19,8 @@
 		"1.16.1-recommended": "1.11.3.78",
 		"1.16.2-latest": "1.11.5.81",
 		"1.16.2-recommended": "1.11.5.81",
-		"1.16.3-latest": "1.11.6.83",
-		"1.16.3-recommended": "1.11.6.83"
+		"1.16.3-latest": "1.11.6.84",
+		"1.16.3-recommended": "1.11.6.84"
 	},
 	"1.12.2": {
 		"1.5.4.85": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.12.2/CHANGELOG.md"
@@ -50,6 +50,6 @@
 		"1.11.5.81": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.16.2/CHANGELOG.md"
 	},
 	"1.16.3": {
-		"1.11.6.83": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.16.3/CHANGELOG.md"
+		"1.11.6.84": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.16.3/CHANGELOG.md"
 	}
 }

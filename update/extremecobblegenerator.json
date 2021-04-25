@@ -4,12 +4,17 @@
 		"1.12.2-latest": "1.0.0.7",
 		"1.12.2-recommended": "1.0.0.7",
 		"1.15.2-latest": "1.1.0.11",
-		"1.15.2-recommended": "1.1.0.11"
+		"1.15.2-recommended": "1.1.0.11",
+		"1.16.5-latest": "1.1.1.12",
+		"1.16.5-recommended": "1.1.1.12"
 	},
 	"1.12.2": {
 		"1.0.0.7": "https://github.com/MC-U-Team/Extreme-Cobble-Generator/blob/1.12.2/CHANGELOG.md"
 	},
 	"1.15.2": {
 		"1.1.0.11": "https://github.com/MC-U-Team/Extreme-Cobble-Generator/blob/1.15.2/CHANGELOG.md"
+	},
+	"1.16.5": {
+		"1.1.1.12": "https://github.com/MC-U-Team/Extreme-Cobble-Generator/blob/1.16.5/CHANGELOG.md"
 	}
 }

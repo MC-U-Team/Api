@@ -2,9 +2,14 @@
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/virus-disease-mod/files",
 	"promos": {
 		"1.14.4-latest": "1.0.0.1",
-		"1.14.4-recommended": "1.0.0.1"
+		"1.14.4-recommended": "1.0.0.1",
+		"1.16.5-latest": "1.0.1.2",
+		"1.16.5-recommended": "1.0.1.2"
 	},
 	"1.14.4": {
 		"1.0.0.1": "https://github.com/MC-U-Team/Virus-Disease-Mod/blob/1.14.4/CHANGELOG.md"
+	},
+	"1.16.5": {
+		"1.0.1.2": "https://github.com/MC-U-Team/Virus-Disease-Mod/blob/1.16.5/CHANGELOG.md"
 	}
 }

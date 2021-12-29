@@ -28,7 +28,9 @@
 		"1.17.1-latest": "4.0.0.199",
 		"1.17.1-recommended": "4.0.0.199",
 		"1.18-latest": "4.0.0.200-SNAPSHOT",
-		"1.18-recommended": "4.0.0.200-SNAPSHOT"
+		"1.18-recommended": "4.0.0.200-SNAPSHOT",
+		"1.18.1-latest": "4.0.0.201-SNAPSHOT",
+		"1.18.1-recommended": "4.0.0.201-SNAPSHOT"
 	},
 	"1.12.2": {
 		"2.2.5.147": "https://github.com/MC-U-Team/U-Team-Core/blob/1.12.2/CHANGELOG.md"
@@ -71,5 +73,8 @@
 	},
 	"1.18": {
 		"4.0.0.200-SNAPSHOT": "https://github.com/MC-U-Team/U-Team-Core/blob/1.18/CHANGELOG.md"
+	},
+	"1.18.1": {
+		"4.0.0.201-SNAPSHOT": "https://github.com/MC-U-Team/U-Team-Core/blob/1.18.1/CHANGELOG.md"
 	}
 }

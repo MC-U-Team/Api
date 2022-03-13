@@ -28,7 +28,9 @@
 		"1.17.1-latest": "1.12.1.91",
 		"1.17.1-recommended": "1.12.1.91",
 		"1.18.1-latest": "1.12.1.92-SNAPSHOT",
-		"1.18.1-recommended": "1.12.1.92-SNAPSHOT"
+		"1.18.1-recommended": "1.12.1.92-SNAPSHOT",
+		"1.18.2-latest": "1.12.1.93",
+		"1.18.2-recommended": "1.12.1.93"
 	},
 	"1.12.2": {
 		"1.5.4.85": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.12.2/CHANGELOG.md"
@@ -71,5 +73,8 @@
 	},
 	"1.18.1": {
 		"1.12.1.92-SNAPSHOT": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.18.1/CHANGELOG.md"
+	},
+	"1.18.2": {
+		"1.12.1.93": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.18.2/CHANGELOG.md"
 	}
 }

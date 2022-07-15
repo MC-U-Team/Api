@@ -3,13 +3,13 @@
 	"promos": {
 		"1.16.5-latest": "1.0.0.4",
 		"1.16.5-recommended": "1.0.0.4",
-		"1.19-latest": "1.0.0.6",
-		"1.19-recommended": "1.0.0.6"
+		"1.19-latest": "1.1.0.7",
+		"1.19-recommended": "1.1.0.7"
 	},
 	"1.16.5": {
 		"1.0.0.4": "https://github.com/MC-U-Team/Basic-Discord-Rich-Presence/blob/1.16.5/CHANGELOG.md"
 	},
 	"1.19": {
-		"1.0.0.6": "https://github.com/MC-U-Team/Basic-Discord-Rich-Presence/blob/1.19/CHANGELOG.md"
+		"1.1.0.7": "https://github.com/MC-U-Team/Basic-Discord-Rich-Presence/blob/1.19/CHANGELOG.md"
 	}
 }

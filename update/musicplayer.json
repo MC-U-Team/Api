@@ -5,8 +5,8 @@
 		"1.8-recommended": "2.1.0.82",
 		"1.8.8-latest": "2.1.0.83",
 		"1.8.8-recommended": "2.1.0.83",
-		"1.8.9-latest": "2.1.1.162",
-		"1.8.9-recommended": "2.1.1.162",
+		"1.8.9-latest": "2.1.1.179",
+		"1.8.9-recommended": "2.1.1.179",
 		"1.12.2-latest": "2.1.1.163",
 		"1.12.2-recommended": "2.1.1.163",
 		"1.13.2-latest": "2.0.3.40",
@@ -49,7 +49,7 @@
 		"2.1.0.83": "https://github.com/MC-U-Team/Music-Player/blob/1.8.8-backport/CHANGELOG.md"
 	},
 	"1.8.9": {
-		"2.1.1.162": "https://github.com/MC-U-Team/Music-Player/blob/1.8.9-backport/CHANGELOG.md"
+		"2.1.1.179": "https://github.com/MC-U-Team/Music-Player/blob/1.8.9-backport/CHANGELOG.md"
 	},
 	"1.12.2": {
 		"2.1.1.163": "https://github.com/MC-U-Team/Music-Player/blob/1.12.2/CHANGELOG.md"

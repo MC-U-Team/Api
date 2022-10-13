@@ -3,8 +3,8 @@
 	"promos": {
 		"1.18.2-latest": "2.3.4.10",
 		"1.18.2-recommended": "2.3.4.10",
-		"1.19-latest": "2.4.0.5",
-		"1.19-recommended": "2.4.0.5",
+		"1.19-latest": "2.4.0.12",
+		"1.19-recommended": "2.4.0.12",
 		"1.19.1-latest": "2.4.1.6",
 		"1.19.1-recommended": "2.4.1.6",
 		"1.19.2-latest": "2.4.1.11",
@@ -14,7 +14,7 @@
 		"2.3.4.10": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.18.2/CHANGELOG.md"
 	},
 	"1.19": {
-		"2.4.0.5": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19/CHANGELOG.md"
+		"2.4.0.12": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19/CHANGELOG.md"
 	},
 	"1.19.1": {
 		"2.4.1.6": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19.1/CHANGELOG.md"

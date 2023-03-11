@@ -9,8 +9,8 @@
 		"1.19.1-recommended": "1.1.1.8",
 		"1.19.2-latest": "1.1.1.14",
 		"1.19.2-recommended": "1.1.1.14",
-		"1.19.3-latest": "1.1.1.13",
-		"1.19.3-recommended": "1.1.1.13"
+		"1.19.3-latest": "1.2.0.15",
+		"1.19.3-recommended": "1.2.0.15"
 	},
 	"1.16.5": {
 		"1.0.0.10": "https://github.com/MC-U-Team/Basic-Discord-Rich-Presence/blob/1.16.5/CHANGELOG.md"
@@ -25,6 +25,6 @@
 		"1.1.1.14": "https://github.com/MC-U-Team/Basic-Discord-Rich-Presence/blob/1.19.2/CHANGELOG.md"
 	},
 	"1.19.3": {
-		"1.1.1.13": "https://github.com/MC-U-Team/Basic-Discord-Rich-Presence/blob/1.19.3/CHANGELOG.md"
+		"1.2.0.15": "https://github.com/MC-U-Team/Basic-Discord-Rich-Presence/blob/1.19.3/CHANGELOG.md"
 	}
 }

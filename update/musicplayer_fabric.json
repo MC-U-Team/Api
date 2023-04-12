@@ -11,8 +11,8 @@
 		"1.19.2-recommended": "2.4.1.17",
 		"1.19.3-latest": "2.5.0.18",
 		"1.19.3-recommended": "2.5.0.18",
-		"1.19.4-latest": "2.6.0.205-SNAPSHOT",
-		"1.19.4-recommended": "2.6.0.205-SNAPSHOT"
+		"1.19.4-latest": "2.6.0.206",
+		"1.19.4-recommended": "2.6.0.206"
 	},
 	"1.18.2": {
 		"2.3.4.16": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.18.2/CHANGELOG.md"
@@ -30,6 +30,6 @@
 		"2.5.0.18": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19.3/CHANGELOG.md"
 	},
 	"1.19.4": {
-		"2.6.0.205-SNAPSHOT": "https://github.com/MC-U-Team/Music-Player/blob/1.19.4/CHANGELOG.md"
+		"2.6.0.206": "https://github.com/MC-U-Team/Music-Player/blob/1.19.4/CHANGELOG.md"
 	}
 }

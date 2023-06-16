@@ -1,5 +1,10 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/useful-backpacks/files",
 	"promos": {
+		"1.20-latest": "2.0.0.113",
+		"1.20-recommended": "2.0.0.113"
+	},
+	"1.20": {
+		"2.0.0.113": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.20/CHANGELOG.md"
 	}
 }

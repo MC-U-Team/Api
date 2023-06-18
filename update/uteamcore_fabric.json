@@ -15,8 +15,8 @@
 		"1.19.4-recommended": "5.0.2.261",
 		"1.20-latest": "5.1.2.265",
 		"1.20-recommended": "5.1.2.265",
-		"1.20.1-latest": "5.1.2.264",
-		"1.20.1-recommended": "5.1.2.264"
+		"1.20.1-latest": "5.1.2.266",
+		"1.20.1-recommended": "5.1.2.266"
 	},
 	"1.18.2": {
 		"4.0.0.7": "https://github.com/MC-U-Team/U-Team-Core-Fabric/blob/1.18.2/CHANGELOG.md"
@@ -40,6 +40,6 @@
 		"5.1.2.265": "https://github.com/MC-U-Team/U-Team-Core/blob/1.20/CHANGELOG.md"
 	},
 	"1.20.1": {
-		"5.1.2.264": "https://github.com/MC-U-Team/U-Team-Core/blob/1.20.1/CHANGELOG.md"
+		"5.1.2.266": "https://github.com/MC-U-Team/U-Team-Core/blob/1.20.1/CHANGELOG.md"
 	}
 }

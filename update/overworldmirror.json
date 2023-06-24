@@ -10,7 +10,9 @@
 		"1.15.2-latest": "1.4.1.16",
 		"1.15.2-recommended": "1.4.1.16",
 		"1.16.5-latest": "1.6.0.20",
-		"1.16.5-recommended": "1.6.0.20"
+		"1.16.5-recommended": "1.6.0.20",
+		"1.19.2-latest": "1.6.0.20",
+		"1.19.2-recommended": "1.6.0.20"
 	},
 	"1.12.2": {
 		"1.2.1.10": "https://github.com/MC-U-Team/Overworld-Mirror/blob/1.12.2/CHANGELOG.md"
@@ -26,5 +28,8 @@
 	},
 	"1.16.5": {
 		"1.6.0.20": "https://github.com/MC-U-Team/Overworld-Mirror/blob/1.16.5/CHANGELOG.md"
+	},
+	"1.19.2": {
+		"1.6.0.20": "https://github.com/MC-U-Team/Overworld-Mirror/blob/1.19.2/CHANGELOG.md"
 	}
 }

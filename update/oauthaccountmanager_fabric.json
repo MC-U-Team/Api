@@ -3,13 +3,13 @@
 	"promos": {
 		"1.19.4-latest": "0.0.1.1-SNAPSHOT",
 		"1.19.4-recommended": "0.0.1.1-SNAPSHOT",
-		"1.20.1-latest": "1.0.0.2",
-		"1.20.1-recommended": "1.0.0.2"
+		"1.20.1-latest": "1.0.0.3",
+		"1.20.1-recommended": "1.0.0.3"
 	},
 	"1.19.4": {
 		"0.0.1.1-SNAPSHOT": "https://github.com/MC-U-Team/OAuth-Account-Manager/blob/1.19.4/CHANGELOG.md"
 	},
 	"1.20.1": {
-		"1.0.0.2": "https://github.com/MC-U-Team/OAuth-Account-Manager/blob/1.20.1/CHANGELOG.md"
+		"1.0.0.3": "https://github.com/MC-U-Team/OAuth-Account-Manager/blob/1.20.1/CHANGELOG.md"
 	}
 }

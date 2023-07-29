@@ -11,8 +11,8 @@
 		"1.14.4-recommended": "2.3.0.13",
 		"1.16.3-latest": "2.3.1.15",
 		"1.16.3-recommended": "2.3.1.15",
-		"1.16.5-latest": "2.3.2.17",
-		"1.16.5-recommended": "2.3.2.17"
+		"1.16.5-latest": "2.3.2.18",
+		"1.16.5-recommended": "2.3.2.18"
 	},
 	"1.8": {
 		"2.1.0.10": "https://www.curseforge.com/minecraft/mc-mods/halloween-luckyblocks/files/3090536"
@@ -30,6 +30,6 @@
 		"2.3.1.15": "https://github.com/MC-U-Team/Halloween-Luckyblocks/blob/1.16.3/CHANGELOG.md"
 	},
 	"1.16.5": {
-		"2.3.2.17": "https://github.com/MC-U-Team/Halloween-Luckyblocks/blob/1.16.5/CHANGELOG.md"
+		"2.3.2.18": "https://github.com/MC-U-Team/Halloween-Luckyblocks/blob/1.16.5/CHANGELOG.md"
 	}
 }

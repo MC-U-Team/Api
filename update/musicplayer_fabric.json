@@ -7,8 +7,8 @@
 		"1.19-recommended": "2.4.0.12",
 		"1.19.1-latest": "2.4.1.6",
 		"1.19.1-recommended": "2.4.1.6",
-		"1.19.2-latest": "2.4.1.22",
-		"1.19.2-recommended": "2.4.1.22",
+		"1.19.2-latest": "2.4.1.24",
+		"1.19.2-recommended": "2.4.1.24",
 		"1.19.3-latest": "2.5.0.18",
 		"1.19.3-recommended": "2.5.0.18",
 		"1.19.4-latest": "2.6.0.225",
@@ -28,7 +28,7 @@
 		"2.4.1.6": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19.1/CHANGELOG.md"
 	},
 	"1.19.2": {
-		"2.4.1.22": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19.2/CHANGELOG.md"
+		"2.4.1.24": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19.2/CHANGELOG.md"
 	},
 	"1.19.3": {
 		"2.5.0.18": "https://github.com/MC-U-Team/Music-Player-Fabric/blob/1.19.3/CHANGELOG.md"

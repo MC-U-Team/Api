@@ -41,8 +41,8 @@
 		"1.19.2-recommended": "4.4.3.344",
 		"1.19.3-latest": "4.5.3.240",
 		"1.19.3-recommended": "4.5.3.240",
-		"1.19.4-latest": "5.0.2.311",
-		"1.19.4-recommended": "5.0.2.311",
+		"1.19.4-latest": "5.0.2.345",
+		"1.19.4-recommended": "5.0.2.345",
 		"1.20-latest": "5.1.2.265",
 		"1.20-recommended": "5.1.2.265",
 		"1.20.1-latest": "5.1.4.312",
@@ -117,7 +117,7 @@
 		"4.5.3.240": "https://github.com/MC-U-Team/U-Team-Core/blob/1.19.3/CHANGELOG.md"
 	},
 	"1.19.4": {
-		"5.0.2.311": "https://github.com/MC-U-Team/U-Team-Core/blob/1.19.4/CHANGELOG.md"
+		"5.0.2.345": "https://github.com/MC-U-Team/U-Team-Core/blob/1.19.4/CHANGELOG.md"
 	},
 	"1.20": {
 		"5.1.2.265": "https://github.com/MC-U-Team/U-Team-Core/blob/1.20/CHANGELOG.md"

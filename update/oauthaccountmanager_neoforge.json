@@ -1,5 +1,10 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/oauth-account-manager/files",
 	"promos": {
+		"1.21.1-latest": "1.0.0.5",
+		"1.21.1-recommended": "1.0.0.5"
+	},
+	"1.21.1": {
+		"1.0.0.5": "https://github.com/MC-U-Team/OAuth-Account-Manager/blob/1.21.1/CHANGELOG.md"
 	}
 }

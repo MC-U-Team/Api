@@ -33,8 +33,8 @@
 		"1.16.5-recommended": "2.3.2.334",
 		"1.18.1-latest": "2.3.3.148-SNAPSHOT",
 		"1.18.1-recommended": "2.3.3.148-SNAPSHOT",
-		"1.18.2-latest": "2.3.4.313",
-		"1.18.2-recommended": "2.3.4.313",
+		"1.18.2-latest": "2.3.4.335",
+		"1.18.2-recommended": "2.3.4.335",
 		"1.19-latest": "2.5.0.186",
 		"1.19-recommended": "2.5.0.186",
 		"1.19.1-latest": "2.5.1.170",
@@ -107,7 +107,7 @@
 		"2.3.3.148-SNAPSHOT": "https://github.com/MC-U-Team/Music-Player/blob/1.18.1/CHANGELOG.md"
 	},
 	"1.18.2": {
-		"2.3.4.313": "https://github.com/MC-U-Team/Music-Player/blob/1.18.2/CHANGELOG.md"
+		"2.3.4.335": "https://github.com/MC-U-Team/Music-Player/blob/1.18.2/CHANGELOG.md"
 	},
 	"1.19": {
 		"2.5.0.186": "https://github.com/MC-U-Team/Music-Player/blob/1.19/CHANGELOG.md"

@@ -1,8 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/u-team-core/files",
 	"promos": {
-		"1.12.2-latest": "2.2.5.339",
-		"1.12.2-recommended": "2.2.5.339",
+		"1.12.2-latest": "2.2.5.375",
+		"1.12.2-recommended": "2.2.5.375",
 		"1.13.2-latest": "2.4.0.110",
 		"1.13.2-recommended": "2.4.0.110",
 		"1.14.2-latest": "2.7.0.127",
@@ -59,7 +59,7 @@
 		"1.21.1-recommended": "5.6.2.354"
 	},
 	"1.12.2": {
-		"2.2.5.339": "https://github.com/MC-U-Team/U-Team-Core/blob/1.12.2/CHANGELOG.md"
+		"2.2.5.375": "https://github.com/MC-U-Team/U-Team-Core/blob/1.12.2/CHANGELOG.md"
 	},
 	"1.13.2": {
 		"2.4.0.110": "https://github.com/MC-U-Team/U-Team-Core/blob/1.13.2/CHANGELOG.md"

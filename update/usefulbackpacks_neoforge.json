@@ -3,13 +3,13 @@
 	"promos": {
 		"1.21-latest": "3.0.0.125",
 		"1.21-recommended": "3.0.0.125",
-		"1.21.1-latest": "3.0.2.128",
-		"1.21.1-recommended": "3.0.2.128"
+		"1.21.1-latest": "3.0.2.129",
+		"1.21.1-recommended": "3.0.2.129"
 	},
 	"1.21": {
 		"3.0.0.125": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.21/CHANGELOG.md"
 	},
 	"1.21.1": {
-		"3.0.2.128": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.21.1/CHANGELOG.md"
+		"3.0.2.129": "https://github.com/MC-U-Team/Useful-Backpacks/blob/1.21.1/CHANGELOG.md"
 	}
 }

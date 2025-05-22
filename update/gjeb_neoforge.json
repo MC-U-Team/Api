@@ -3,13 +3,13 @@
 	"promos": {
 		"1.21-latest": "1.3.0.35",
 		"1.21-recommended": "1.3.0.35",
-		"1.21.1-latest": "1.3.0.38",
-		"1.21.1-recommended": "1.3.0.38"
+		"1.21.1-latest": "1.3.0.40",
+		"1.21.1-recommended": "1.3.0.40"
 	},
 	"1.21": {
 		"1.3.0.35": "https://github.com/MC-U-Team/GJEB-GammaJustExtremeBright/blob/1.21/CHANGELOG.md"
 	},
 	"1.21.1": {
-		"1.3.0.38": "https://github.com/MC-U-Team/Music-Player/blob/1.21.1/CHANGELOG.md"
+		"1.3.0.40": "https://github.com/MC-U-Team/Music-Player/blob/1.21.1/CHANGELOG.md"
 	}
 }
